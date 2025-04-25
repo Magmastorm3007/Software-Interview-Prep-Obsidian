@@ -209,11 +209,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41b3904d5fff22dc",
+  "active": "90ec721b5ada89be",
   "lastOpenFiles": [
+    "README.md",
     "DSA Notes/DSA Solving/Problems/Arrays.md",
     "Untitled.md",
     "DSA Notes/DSA Solving/6_Month_DSA_Roadmap.md",
