@@ -6,8 +6,6 @@ tags:
 created: 2025-04-25
 ---
 
-# 6-Month DSA Revision Roadmap 
-
 ---
 ## Resources
 Problem Solving:-

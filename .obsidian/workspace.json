@@ -13,26 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Mental Health/Things to deal with and maybe possibly can find ways to cope.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Things to deal with and maybe possibly can find ways to cope"
             }
           },
           {
             "id": "0698ea612d4bfdc9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rough Paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rough Paper"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -49,23 +45,8 @@
               "title": "Bit Manipulation & Masking"
             }
           }
-        ]
-      },
-      {
-        "id": "b6a5251ab89e5c0d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6762233aa3462a0d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,28 +185,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "90ec721b5ada89be",
+  "active": "0698ea612d4bfdc9",
   "lastOpenFiles": [
-    "README.md",
-    "DSA Notes/DSA Solving/Problems/Arrays.md",
-    "Untitled.md",
+    "Job Preparation/Notes.md",
     "DSA Notes/DSA Solving/6_Month_DSA_Roadmap.md",
+    "Mental Health/Things to deal with and maybe possibly can find ways to cope.md",
+    "DSA Notes/DSA Solving/Topics/STL.md",
+    "Job Preparation/LInks.md",
+    "Job Preparation/Resources.md",
+    "Job Preparation/Plan.md",
     "DSA Notes/DSA Solving/Topics/Bit Manipulation & Masking.md",
+    "DSA Notes/DSA Solving/Problems/Arrays.md",
+    "DSA Notes/DSA Solving/Problems/Binary Search.md",
+    "DSA Notes/DSA Solving/Problems/Graphs.md",
+    "DSA Notes/DSA Solving/Problems/Linked Lists.md",
+    "Rough Paper.md",
+    "DSA Notes/DSA Solving/Problems/Priority_Queue.md",
+    "Mental Health",
+    "README.md",
+    "Welcome.md",
+    "Job Preparation",
+    "Untitled.md",
     "DSA Notes/DSA Solving/Problems",
     "DSA Notes/DSA Solving/Topics",
     "DSA Notes",
     "DSA Solving/Problem.md",
-    "Rough Paper.md",
-    "Welcome.md",
     "DSA Notes/DSA Solving"
   ]
 }

@@ -1,0 +1,8 @@
+
+1. I have always been treated as...not being able to fit in having difficulty sometimes being a normal person im not sure what it is but it was effort i got better at things like facts science and all but i had always struggled to have relationships with people of any sorts until much later in life. - What can help is being more social but conscious of what circles im choosing and trying to gain more knowledge about common subjects
+
+2. I have went through molestation as a kid, being mocked and always feeling physically incapable of certain things. Other people seemed better to me and i always felt lacking.- What can help is maybe i can try going to the gym or be more active/fit lose this body fat and whatever try to be more happy rest more and try not blaming
+3. I have always been a big failure in life - failed at everything i tried but only have little to show- dont give up career wise i have this plan DSA under belt is good and over that i think we can make one good AI integrated project, revise js and study python,spark maybe a job will help rn?
+4. One of the worst breakups someone can face- Trusted friend and someone i wanted to maybe one day marry ,she felt i wasted her time blamed everything and uk what he did lets just say very bad. What can help- Im not too sure right now but I think i shouldnt change who I am right? right? I am capable of love but im planning to take distance
+5. Lack of goals- Idk gamedev and everything and whatever has happened i have lost sight of what i want to do - do small indie things get a feel but make presence maybe idk lets see
+6. Drug Abuse? Not really but i do have some alcohol and shit and I need to stop it or something...its difficult with friends i wanna enjoy too but...i swear
